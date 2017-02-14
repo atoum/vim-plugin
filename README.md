@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="http://atoum.org/images/logo/atoum.png" alt="atoum"/>
-    <img src="https://raw.githubusercontent.com/atoum/vim-plugin/master/vim.svg" alt="VIM" style="height: 144px"/>
+    <img src="https://raw.githubusercontent.com/atoum/vim-plugin/master/vim.png" alt="VIM" height="144px"/>
 </p>
 
 ## Install
